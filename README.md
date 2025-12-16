@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi, I'm Jolly 👋
 
-<!--
-**jolly-sharma/jolly-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack / Full Stack Developer with 3+ years of experience  
+💻 Tech Stack: JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL  
+📍 Location: India | Open to Hybrid / Onsite opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Do
+- Build scalable REST APIs using Node.js & Express
+- Develop responsive UIs with React.js
+- Design and manage databases (SQL & NoSQL)
+- Implement authentication & authorization (JWT, RBAC)
+- Write clean, maintainable, production-ready code
+
+---
+
+### 📂 Featured Projects
+- 🔹 MERN Authentication System (JWT, Role-Based Access)
+- 🔹 Job Portal API (Node.js, MongoDB, Pagination, Filters)
+- 🔹 Event Management Platform (React + Backend APIs)
+
+> 📌 Projects are built to reflect real-world use cases and best practices.
+
+---
+
+### 🛠 Skills
+- **Frontend:** React.js, HTML, CSS, JavaScript, TypeScript
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, VS Code, Docker (basic)
+
+---
+
+### 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/jolly-sharma-a7611a147
+- 📧 Email: Jollykumari9168@gmail.com
+
+---
+
+⭐ *I enjoy building scalable applications and continuously improving my skills.*
