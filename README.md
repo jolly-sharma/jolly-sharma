@@ -40,7 +40,7 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/jolly-sharma
+- 💼 LinkedIn: https://www.linkedin.com/in/jolly-sharma-a7611a147
 - 📧 Email: Jollykumari9168@gmail.com
 
 ---
